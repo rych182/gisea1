@@ -37,6 +37,10 @@ h6 {
     text-align: center;
 }
 
+.about-alineacion {
+    text-align: justify;
+}
+
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -586,7 +590,7 @@ section {
     display: block;
     width: 50px;
     height: 3px;
-    background: #1bbd36;
+    background: #bf932b;
     bottom: 0;
     left: calc(50% - 25px);
 }
@@ -814,7 +818,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
     color: #fff;
-    background: #1bbd36;
+    background: #bf932b;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -964,7 +968,7 @@ section {
     top: 7px;
     position: absolute;
     font-size: 20px;
-    color: #1bbd36;
+    color: #bf932b;
 }
 
 .about-us .content p:last-child {
@@ -1082,7 +1086,7 @@ section {
     width: 1px;
     height: 10px;
     transition: .9s;
-    background-color: #1bbd36;
+    background-color: #bf932b;
 }
 
 
@@ -1393,11 +1397,11 @@ section {
 
 .contact .info i {
     font-size: 20px;
-    color: #1bbd36;
+    color: #bf932b;
     float: left;
     width: 44px;
     height: 44px;
-    border: 1px solid #1bbd36;
+    border: 1px solid #bf932b;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1572,7 +1576,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-    background-color: #1bbd36 !important;
+    background-color: #bf932b !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -2223,7 +2227,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
     padding-right: 2px;
-    color: #1ed33c;
+    color: #bf932b;
     font-size: 18px;
     line-height: 1;
 }
