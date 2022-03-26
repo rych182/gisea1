@@ -23,6 +23,10 @@ a:hover {
     color: #bf932b;
 }
 
+h1>a.sinDecoracion {
+    text-decoration: none;
+}
+
 .giseaLink {
     color: #bf932b;
     font-weight: bold;
